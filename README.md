@@ -20,5 +20,5 @@
 * 🔗 [**EventFlow AI**](https://github.com/ravilpcs-spec/eventflow-ai-agent) — Автономный AI-менеджер деловых мероприятий с RAG-поиском и автоматическим бронированием.
 ---
 📫 **Связаться со мной:** 
-Telegram - @rfmurtazin
+Telegram - @rfmurtazin,
 МАХ - +7 981 822 14 71
