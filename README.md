@@ -18,6 +18,7 @@
 
 ### 🏆 Избранные проекты
 * 🔗 [**EventFlow AI**](https://github.com/ravilpcs-spec/eventflow-ai-agent) — Автономный AI-менеджер деловых мероприятий с RAG-поиском и автоматическим бронированием.
+* 🔗 [**VODA AI Consultant**](https://github.com/ravilpcs-spec/voda-ai-consultant) — Омниканальный AI-ассистент для премиального акваклуба. Интеграция с YClients, мессенджерами, amoCRM, маршрутизация бронирований и RAG-база знаний.
 ---
 📫 **Связаться со мной:** 
 Telegram - @rfmurtazin,
