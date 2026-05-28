@@ -12,7 +12,7 @@
 
 ### 🛠 Мой технологический стек
 * **LLM & AI:** Claude, Gemini, OpenAI (GPT-4o, Whisper)
-* **Low-code Оркестрация:** n8n, Nextbot
+* **Low-code Оркестрация:** n8n, Nextbot, Codeх
 * **Базы данных & RAG:** Supabase (pgvector), Google Sheets
 * **Интеграции API:** Telegram Bot API, WhatsApp, CRM (amoCRM, Bitrix24), мессенджеры и кастомные вебхуки.
 
