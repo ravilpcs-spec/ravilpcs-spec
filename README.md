@@ -75,7 +75,7 @@
 
 ---
 
-### 🔗 [BROOMS AI](https://github.com/ravilpcs-spec/brooms-ai-consultant)
+### 🔗 [BROOMS AI](https://github.com/ravilpcs-spec/brooms-ai-agent)
 
 Премиальный AI-консультант для банного SPA-комплекса BROOMS в Санкт-Петербурге.
 
