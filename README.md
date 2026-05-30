@@ -75,7 +75,7 @@
 
 ---
 
-### 🔗 [AI-Бухгалтер](https://github.com/ravilpcs-spec/telegram-ai-buhgalter-n8n)
+### 🔗 [AI-Бухгалтер](https://github.com/ravilpcs-spec/ai-accounting-assistant-n8n)
 
 Telegram AI-ассистент для анализа бухгалтерских отчётов.
 
