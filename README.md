@@ -57,7 +57,7 @@
 
 ---
 
-### 🔗 [AI-ОКК: контроль качества отдела продаж](https://github.com/ravilpcs-spec/ai-sales-quality-control-n8n)
+### 🔗 [AI-ОКК: контроль качества отдела продаж](https://github.com/ravilpcs-spec/ai-quality-control-okk)
 
 Автоматизированная система контроля качества звонков и голосовых сообщений менеджеров по продажам.
 
