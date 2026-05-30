@@ -39,7 +39,7 @@
 
 ## 🏆 Избранные проекты
 
-### 🔗 [EventFlow AI](https://github.com/USERNAME/eventflow-ai)
+### 🔗 [EventFlow AI](https://github.com/ravilpcs-spec/eventflow-ai-agent)
 
 Автономный AI-менеджер деловых мероприятий с RAG-поиском, автоматическим бронированием и обработкой заявок.
 
