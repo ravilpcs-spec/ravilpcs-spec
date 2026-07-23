@@ -29,7 +29,7 @@
 
 - **LLM и AI-модели** — OpenAI GPT-4o, Whisper, Claude, Gemini.
 - **Low-code / No-code платформы** — n8n, Nextbot.
-- **AI-разработка и код** — Codex, GitHub, Python, JavaScript.
+- **AI-разработка и код** — Codex, GitHub, Python, JavaScript (не программист).
 - **Базы данных и RAG** — Supabase, pgvector, Google Sheets, корпоративные базы знаний.
 - **CRM и бизнес-системы** — amoCRM, Bitrix24, YClients.
 - **Интеграции и API** — Telegram Bot API, WhatsApp, Instagram, вебхуки, REST API, кастомные интеграции.
