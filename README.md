@@ -75,7 +75,7 @@
 
 ---
 
-🔗 [Учётная система для розничного магазина](https://github.com/ravilpcs-spec/retail-inventory-sales-management)
+### 🔗 [Система учета для розничного магазина](https://github.com/ravilpcs-spec/retail-inventory-sales-management)
 
 Веб-система для магазина одежды и косметики: учёт товаров и размеров, продажи, резервы, предоплаты, касса, возвраты и расчёт зарплаты продавцов.
 
